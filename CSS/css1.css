@@ -1,0 +1,36 @@
+
+h2.big{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:18px;
+    color:coral;
+}
+
+ 
+.big{
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px;
+    color:chartreuse;
+}/*分类*/
+h2.small{
+    text-indent: 10px;
+    font-family: 'Segoe UI','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:18px;
+}/*分类*/
+p{
+    font-size:14px;
+    color:gray;
+    text-decoration:underline;
+    text-indent:20pt;
+}/*标签*/
+img{
+    width:50%;
+    display:block;
+    margin:0 auto;
+}/*标签*/
+#footer{
+    text-align: left;
+    color:chartreuse;
+    font-size: 12px;
+} /*id*/
